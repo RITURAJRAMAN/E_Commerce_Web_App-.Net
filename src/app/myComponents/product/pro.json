@@ -1,0 +1,272 @@
+[
+  {
+    "id": 2,
+    "product": "Black Shirt",
+    "quantity": 50,
+    "price": 1500,
+    "imageurl": "https://blackberrys.com/cdn/shop/files/formal-shirt-in-black-dawn-blackberrys-clothing-1.jpg?v=1685950192",
+    "description": "Highlight your look with this Black Formal Shirt.",
+    "category": "men",
+    "createdDate": "2024-04-13T00:00:00"
+  },
+  {
+    "id": 3,
+    "product": "Apple iPhone 15 Pro",
+    "quantity": 50,
+    "price": 135000,
+    "imageurl": "https://m.media-amazon.com/images/I/81CgtwSII3L._SL1500_.jpg",
+    "description": "Apple iPhone 15 Pro (256 GB) - Natural Titanium",
+    "category": "electronics",
+    "createdDate": "2024-04-13T00:00:00"
+  },
+  {
+    "id": 4,
+    "product": "Apple iPhone 15 Pro",
+    "quantity": 50,
+    "price": 135000,
+    "imageurl": "https://www.reliancedigital.in/medias/Apple-iPhone15Pro-493839344-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzk5NjZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGIxL2gzNi8xMDA1MTkzMDg4MjA3OC5qcGd8NWEzYzdkMjQ5MWRiN2JiNjQ5MGQwMjVjZjBjM2VhYjBlYTIxOGJhYzEyNWQxZjg3OTc0MDNhODY5NzAzOGI0NA",
+    "description": "Apple iPhone 15 Pro (256 GB) - Natural Titanium",
+    "category": "electronics",
+    "createdDate": "2024-04-13T00:00:00"
+  },
+  {
+    "id": 5,
+    "product": "Mens Shirt",
+    "quantity": 50,
+    "price": 950,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20240319/lMpm/65f9128d05ac7d77bbc43ec0/-1117Wx1400H-467162071-maroon-MODEL2.jpg",
+    "description": "Men's half Sleeves Shirt - Spread Collar Shirt with Patch Pocket in Maroon Colour",
+    "category": "men",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 6,
+    "product": "Men Full Shirt",
+    "quantity": 50,
+    "price": 800,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230531/KidV/6477654842f9e729d701dbeb/-473Wx593H-443016860-navy-MODEL.jpg",
+    "description": "Black Windowpane Checked Slim Fit Shirt - Full Sleeve",
+    "category": "men",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 7,
+    "product": "Men's Formal Trouser",
+    "quantity": 50,
+    "price": 699,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230214/GNcn/63eb2ce5f997dde6f4a401c6/-473Wx593H-443007826-olive-MODEL.jpg",
+    "description": "Checked Slim Fit Flat Front Trousers for Men - Olive Green",
+    "category": "men",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 8,
+    "product": "Black Jeans",
+    "quantity": 50,
+    "price": 999,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230508/eUUe/6458d0b5d55b7d0c639ad361/-473Wx593H-443010661-blue-MODEL2.jpg",
+    "description": "Mid-Wash Skinny Fit Jeans for Men",
+    "category": "men",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 9,
+    "product": "Men's Shorts",
+    "quantity": 50,
+    "price": 399,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20231018/FUgy/652fe267ddf779151946a8f8/-1117Wx1400H-466722285-navy-MODEL.jpg",
+    "description": "Men Slim Fit Shorts with Slip Pockets - Navy Blue",
+    "category": "men",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 10,
+    "product": "Sneakers for Men - Red Tape",
+    "quantity": 50,
+    "price": 1099,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20240213/aKkL/65cb707c16fd2c6e6af4368d/-473Wx593H-467069260-black-MODEL.jpg",
+    "description": "Men Low-Top Lace-Up Sneakers - Black",
+    "category": "men",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 11,
+    "product": "Women's Suit",
+    "quantity": 50,
+    "price": 999,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230916/EsW9/6504bd57ddf7791519de17a8/-473Wx593H-466585617-yellow-MODEL.jpg",
+    "description": "Yellow Fusion Wear Embellished Pant-Suit Set with Jacket",
+    "category": "women",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 12,
+    "product": "Banarasi Silk Saree",
+    "quantity": 50,
+    "price": 1999,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20240216/zfDC/65cf8db605ac7d77bb5f61ee/-473Wx593H-467080678-cream-MODEL.jpg",
+    "description": "Women Kanjivaram Banarasi Silk Saree",
+    "category": "women",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 13,
+    "product": "Women's Loafers",
+    "quantity": 50,
+    "price": 499,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230707/QUug/64a73e59eebac147fc5ad052/-473Wx593H-466338833-white-MODEL.jpg",
+    "description": "White Casual Round-Toe Penny Loafers",
+    "category": "women",
+    "createdDate": "2024-04-14T00:00:00"
+  },
+  {
+    "id": 14,
+    "product": "U.S. POLO T-Shirt",
+    "quantity": 50,
+    "price": 990,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20240116/zhB2/65a66fce16fd2c6e6aaa5ac4/-473Wx593H-469577883-maroon-MODEL.jpg",
+    "description": "Brand Print Regular Fit Crew-Neck T-Shirt for Women",
+    "category": "women",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 15,
+    "product": "Skechers",
+    "quantity": 50,
+    "price": 899,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20240412/H0YT/66194ab505ac7d77bb064918/-473Wx593H-469532515-black-MODEL.jpg",
+    "description": "Black Sports Shoes for Women",
+    "category": "women",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 16,
+    "product": "T-Shirt for Kids",
+    "quantity": 50,
+    "price": 399,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20221205/0il0/638e17faaeb269659cd16d26/-473Wx593H-441149445-navyblue-MODEL.jpg",
+    "description": "Graphic Print Round-Neck T-Shirt for Kids",
+    "category": "Kids",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 17,
+    "product": "T-Shirt for Kids",
+    "quantity": 50,
+    "price": 399,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230314/FIri/64104f9caeb26924e3bf150f/-473Wx593H-443010107-white-MODEL.jpg",
+    "description": "Minnie Mouse Print Crew-Neck T-Shirt for Kids",
+    "category": "Kids",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 18,
+    "product": "Joggers for Kids",
+    "quantity": 50,
+    "price": 450,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230125/F2mv/63d10631aeb269c651f829e1/-473Wx593H-443010097-navy-MODEL.jpg",
+    "description": "Batman Print Joggers with Insert Pockets for Kids",
+    "category": "Kids",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 19,
+    "product": "Jeggings for Kids",
+    "quantity": 50,
+    "price": 599,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230714/xxPA/64b165e0a9b42d15c954bf5b/-473Wx593H-443015618-pink-MODEL.jpg",
+    "description": "Girls Printed Straight Fit Jeggings",
+    "category": "Kids",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 20,
+    "product": "Kids Shoes",
+    "quantity": 50,
+    "price": 549,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20240211/S8vS/65c89fca05ac7d77bb4d8de2/-473Wx593H-465922083-blue-MODEL.jpg",
+    "description": "Boys Panelled Running Shoes with Velcro-Fastening",
+    "category": "Kids",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 21,
+    "product": "Flip-Flops for Kids",
+    "quantity": 50,
+    "price": 199,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20220721/mS0Y/62d84f1cf997dd03e2e3f755/-473Wx593H-450151638-blue-MODEL.jpg",
+    "description": "Disney Print Thong-Strap Flip-Flops for Kids",
+    "category": "Kids",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 22,
+    "product": "Toy Gun for Kids",
+    "quantity": 50,
+    "price": 999,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20210730/ZzRI/61042ae8f997ddb312414dee/-473Wx593H-4916357590-multi-MODEL.jpg",
+    "description": "Chaos Meteor Blaster with 12 Dart Balls for Kids",
+    "category": "Kids",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 23,
+    "product": "MacBook",
+    "quantity": 50,
+    "price": 149999,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230420/zZjU/64417734907deb497af7ad4d/-473Wx593H-4928506510-multi-MODEL.jpg",
+    "description": "Apple MacBook",
+    "category": "electronics",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 24,
+    "product": "Vivo V29 Smartphone",
+    "quantity": 50,
+    "price": 29000,
+    "imageurl": "https://exstatic-in.vivo.com/Oz84QB3Wo0uns8j1/in/1695965611535/b0bfa258b03e0f3113ce4a071d4a68eb.png.webp",
+    "description": "VIVO V29 8GB+128GB Majestic Red",
+    "category": "smartphones",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 25,
+    "product": "Realme 12 Pro 5G",
+    "quantity": 50,
+    "price": 18999,
+    "imageurl": "https://d2xamzlzrdbdbn.cloudfront.net/products/d83fb3e5-fd39-4799-95b4-e7c609db47ea24300618.jpg",
+    "description": "Realme 12 Pro 5G Dual Sim (8GB RAM, 256GB Storage)",
+    "category": "smartphones",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 26,
+    "product": "OnePlus Television",
+    "quantity": 50,
+    "price": 29000,
+    "imageurl": "https://m.media-amazon.com/images/I/51ovMTXv9RL._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "OnePlus 43 inches Y-Series 4K Ultra HD Smart Android LED TV",
+    "category": "electronics",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 27,
+    "product": "Bajaj GX-1 Mixer Grinder 500W",
+    "quantity": 50,
+    "price": 2499,
+    "imageurl": "https://m.media-amazon.com/images/I/51NNA+k9S0L._SX569_.jpg",
+    "description": "Superior Mixie | 2-in-1 for Dry Grinding | 3 Stainless Steel Jars.",
+    "category": "homeequipments",
+    "createdDate": "2024-04-21T00:00:00"
+  },
+  {
+    "id": 28,
+    "product": "Earrings",
+    "quantity": 50,
+    "price": 249,
+    "imageurl": "https://assets.ajio.com/medias/sys_master/root/20230821/0Tsj/64e38176afa4cf41f564372a/-473Wx593H-466476779-multi-MODEL.jpg",
+    "description": "Pack of 30 Stone-Studded Ear Studs for women.",
+    "category": "women",
+    "createdDate": "2024-04-27T00:00:00"
+  }
+]
