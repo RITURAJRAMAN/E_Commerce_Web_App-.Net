@@ -1,5 +1,6 @@
 Ecommerce Web Application with .NET API Configuration.
 Configuration.
+
 Steps to follow:
 1. Clone the repository
 2. Open Terminal in the same directory
